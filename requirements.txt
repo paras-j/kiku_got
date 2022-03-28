@@ -1,0 +1,4 @@
+pip
+streamlit
+git+https://github.com/deepset-ai/haystack.git#egg=farm-haystack[colab,faiss]
+nltk
